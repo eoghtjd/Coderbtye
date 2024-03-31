@@ -9,4 +9,4 @@ Implement a simple ATM controller
 
 1 or 2 #selet account
 
-1 = See Balance, 2 = Deposit, 3 = Withdraw, 4 = Exit <span style="color:gray">#follow the instruction</span>
+1 = See Balance, 2 = Deposit, 3 = Withdraw, 4 = Exit <span style="color:green">#follow the instruction</span>
